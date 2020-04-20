@@ -1,0 +1,46 @@
+#homepagelatte{
+
+    width: 600px;
+    height: 600px;
+    
+}
+
+.carousel-inner {
+
+    width: 600px;
+    height: 600px;
+}
+
+.carousel-inner > .item > img{
+    align-items: center;
+    }
+
+body {
+
+    background-color: bisque;
+}
+
+#color {
+
+    background-color: bisque;
+}
+
+.jumbotron{
+
+    background-color: rgb(253, 207, 151);
+}
+
+p {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 500;
+    font-size: large;
+}
+
+.btn {
+
+    text-align: center;
+
+    
+}
+
